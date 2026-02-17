@@ -71,12 +71,14 @@ Make sure Python 3 is installed.
 ---
 
 ### 📊 Example Output
+```
 Nama Karyawan    : Andi
 Jam Kerja/Hari   : 10 jam
 Jam Lembur       : 2 jam
 Gaji per Bulan   : Rp 6,000,000
 Pajak (5%)       : Rp 300,000
 Gaji Bersih      : Rp 5,700,000
+```
 
 ---
 
